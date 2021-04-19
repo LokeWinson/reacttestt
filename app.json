@@ -1,0 +1,12 @@
+{
+  "name": "Winson",
+  "displayName": "Winson",
+  "expo": {
+    "name": "Winson",
+    "slug": "Winson",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
